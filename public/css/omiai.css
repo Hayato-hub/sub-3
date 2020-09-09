@@ -19,8 +19,8 @@ header h3 {
 
 .body {
     background-color: white;
-    padding-right: 1em;
-    padding-left: 1em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
 }
 
 .title h3 {
@@ -35,4 +35,5 @@ header h3 {
 
 .title img {
     width: 100%;
+    margin-top: -0.5em;
 }
