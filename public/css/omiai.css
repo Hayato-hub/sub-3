@@ -69,14 +69,14 @@ header h3 {
   overflow: hidden;
 }
 
-.balloon6 .faceicon img {
+.balloon6 .faceicon {
   float: left;
   margin-right: -50px;
-  width: 10%;
+  width: 40px;
 }
 
 .balloon6 .faceicon img{
-  width: 100%;
+  width: 10%;
   height: auto;
   border-radius: 50%;
 }
