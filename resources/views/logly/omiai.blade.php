@@ -36,7 +36,7 @@
                         </div>
                         <div class="chatting">
                             <div class="says">
-                                <p>左ふきだし文</p>
+                                <p>結婚する事になったわ</p>
                             </div>
                         </div>
                     </div>
@@ -44,9 +44,103 @@
                 
                     <!--③右コメント始-->
                     <div class="mycomment">
-                        <p>右ふきだし文</p>
+                        <p>急やな(笑)</p>
                     </div>
-                  <!--/③右コメント終-->
+                    <!--/③右コメント終-->
+                  
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>せやろ？自分でも驚いてる</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
+                    
+                    <!--③右コメント始-->
+                    <div class="mycomment">
+                        <p>どこで知り合ったん？</p>
+                    </div>
+                    <!--/③右コメント終-->
+                    
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>婚活アプリ</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
+                    
+                    <!--③右コメント始-->
+                    <div class="mycomment">
+                        <p>まじか！<br><br>てか婚活してたんやな(笑)</p>
+                    </div>
+                    <!--/③右コメント終-->
+                    
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>歳も歳やしなー<br>お前もそろそろ探した方がええで？</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
+                    
+                    <!--③右コメント始-->
+                    <div class="mycomment">
+                        <p>お、おう<br>てか、アプリ出会えるん？そうゆうの抵抗あるけど</p>
+                    </div>
+                    <!--/③右コメント終-->
+                    
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>出会えるか出会えないかで言ったら出会えるのは間違いない<br><br>俺もそれ思ってたけど使ってみるとUBER EATSとかと変わらん(笑)<br>注文感覚でマッチするし連絡くるし</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
+                    
+                    <!--③右コメント始-->
+                    <div class="mycomment">
+                        <p>なんか、お前が出会えるって言うと信憑性あるわー<br>ずーっと女おらんかったもんな(笑)</p>
+                    </div>
+                    <!--/③右コメント終-->
+                    
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>それどういう意味やねんー</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
                   
                 </div><!--/①LINE会話終了-->
             </div>
