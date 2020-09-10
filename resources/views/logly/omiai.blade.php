@@ -32,7 +32,7 @@
                     <div class="balloon6">
                         <div class="faceicon">
                             <!--アイコン画像-->
-                            <!--<img src="{{ asset('image/line_friend.png') }}"></img>-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
                         </div>
                         <div class="chatting">
                             <div class="says">
