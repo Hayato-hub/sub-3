@@ -23,13 +23,33 @@
                 <!--画像-->
                 <img src="{{ asset('image/lp_omi_1.jpg') }}"></img>
             </div>
-            <div class="button">
-                
-            </div>
-            <div class="index">
-                <!--目次-->
-            </div>
             
+            <div class="content">
+                <h5>時は遡り。およそ3ヶ月前...<br>高校時代の友達、同じく独身ブス面から~</h5>
+                <div class="line-bc"><!--①LINE会話全体を囲う-->
+                
+                    <!--②左コメント始-->
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>左ふきだし文</p>
+                            </div>
+                        </div>
+                    </div>
+                    <!--②/左コメント終-->
+                
+                    <!--③右コメント始-->
+                    <div class="mycomment">
+                        <p>右ふきだし文</p>
+                    </div>
+                  <!--/③右コメント終-->
+                  
+                </div><!--/①LINE会話終了-->
+            </div>
         </div>
         
         <footer>
