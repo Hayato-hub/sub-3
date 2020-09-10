@@ -41,13 +41,13 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                
+                    <br>
                     <!--③右コメント始-->
                     <div class="mycomment">
                         <p>急やな(笑)</p>
                     </div>
                     <!--/③右コメント終-->
-                  
+                    <br>
                     <!--②左コメント始-->
                     <div class="balloon6">
                         <div class="faceicon">
@@ -61,13 +61,13 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                    
+                    <br>
                     <!--③右コメント始-->
                     <div class="mycomment">
                         <p>どこで知り合ったん？</p>
                     </div>
                     <!--/③右コメント終-->
-                    
+                    <br>
                     <!--②左コメント始-->
                     <div class="balloon6">
                         <div class="faceicon">
@@ -81,13 +81,13 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                    
+                    <br>
                     <!--③右コメント始-->
                     <div class="mycomment">
                         <p>まじか！<br><br>てか婚活してたんやな(笑)</p>
                     </div>
                     <!--/③右コメント終-->
-                    
+                    <br>
                     <!--②左コメント始-->
                     <div class="balloon6">
                         <div class="faceicon">
@@ -101,13 +101,13 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                    
+                    <br>
                     <!--③右コメント始-->
                     <div class="mycomment">
                         <p>お、おう<br>てか、アプリ出会えるん？そうゆうの抵抗あるけど</p>
                     </div>
                     <!--/③右コメント終-->
-                    
+                    <br>
                     <!--②左コメント始-->
                     <div class="balloon6">
                         <div class="faceicon">
@@ -121,13 +121,13 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                    
+                    <br>
                     <!--③右コメント始-->
                     <div class="mycomment">
                         <p>なんか、お前が出会えるって言うと信憑性あるわー<br>ずーっと女おらんかったもんな(笑)</p>
                     </div>
                     <!--/③右コメント終-->
-                    
+                    <br>
                     <!--②左コメント始-->
                     <div class="balloon6">
                         <div class="faceicon">
@@ -141,7 +141,7 @@
                         </div>
                     </div>
                     <!--②/左コメント終-->
-                  
+                    <br>
                 </div><!--/①LINE会話終了-->
             </div>
         </div>
