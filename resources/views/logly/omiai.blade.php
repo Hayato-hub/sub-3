@@ -25,7 +25,7 @@
                 <div class="arrow">
                     <i class="fas fa-angle-double-down"></i>
                 </div>
-                <img src="{{ asset('image/lp_omi_2.jpg') }}" class="title-image-2"></img>
+                <img src="{{ asset('image/lp_omi_2.jpg') }}"></img>
                 <br>
                 <br>
                 <img src="{{ asset('image/lp_omi_3.jpg') }}"></img>
