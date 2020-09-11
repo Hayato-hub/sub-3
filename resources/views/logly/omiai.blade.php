@@ -157,7 +157,7 @@
                 <img src="{{ asset('image/lp_omi_4.jpg') }}" class="step1"></img>
                 <img src="{{ asset('image/lp_omi_5.jpg') }}" class="step2"></img>
                 <img src="{{ asset('image/lp_omi_6.jpg') }}" class="step3"></img>
-                <img src="{{ asset('image/lp_omi_7.jpg') }}"></img>
+                <img src="{{ asset('image/lp_omi_7.jpg') }}" class="step4"></img>
             </div>
         </div>
         

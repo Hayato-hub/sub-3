@@ -165,18 +165,18 @@ header h3 {
 }
 /*ここまでLINE風CSS*/
 
-.step1 {
+.content .step1 {
   width: 10%;
 }
 
-.step2 {
+.content .step2 {
   width: 30%;
 }
 
-.step3 {
+.content .step3 {
   width: 50%;
 }
 
-.step4 {
+.content .step4 {
   width: 100%;
 }
