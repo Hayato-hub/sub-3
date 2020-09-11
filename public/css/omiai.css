@@ -76,6 +76,24 @@ header h3 {
   width: 100%;
 }
 
+/*枠*/
+.box5 {
+    padding: 0.5em 0.5em;
+    margin: 2em 0;
+    border: double 5px #4ec4d3;
+}
+
+.box5 ol li {
+    font-weight: bold;
+    margin: 0; 
+    padding: 0;
+}
+
+.box5-span {
+  font-size: 1.5em;
+  color: red;
+  border-bottom: 2px solid red;
+}
 
 
 
