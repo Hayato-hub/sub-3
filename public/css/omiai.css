@@ -73,7 +73,7 @@ header h3 {
 }
 
 .center {
-  text-align: center;
+  margin: 0 auto;
 }
 
 .width10 {
