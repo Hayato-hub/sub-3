@@ -164,3 +164,19 @@ header h3 {
   transform: rotate(-35deg);
 }
 /*ここまでLINE風CSS*/
+
+.step1 {
+  width: 10%;
+}
+
+.step2 {
+  width: 30%;
+}
+
+.step3 {
+  width: 50%;
+}
+
+.step4 {
+  width: 100%;
+}

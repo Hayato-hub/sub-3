@@ -152,11 +152,24 @@
                     <!--②/左コメント終-->
                     <br>
                 </div><!--/①LINE会話終了-->
+                
+                <h5>と、言うことで...<br><br><span class="content-h5-span">早速始めてみることに！(泣)</span></h5>
+                <img src="{{ asset('image/lp_omi_4.jpg') }}" class="step1"></img>
+                <img src="{{ asset('image/lp_omi_5.jpg') }}" class="step2"></img>
+                <img src="{{ asset('image/lp_omi_6.jpg') }}" class="step3"></img>
+                <img src="{{ asset('image/lp_omi_7.jpg') }}"></img>
             </div>
         </div>
         
         <footer>
             
         </footer>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
     </body>
 </html>
