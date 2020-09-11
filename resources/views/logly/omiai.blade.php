@@ -154,10 +154,12 @@
                 </div><!--/①LINE会話終了-->
                 
                 <h5>と、言うことで...<br><br><span class="content-h5-span">早速始めてみることに！(泣)</span></h5>
-                <img src="{{ asset('image/lp_omi_4.jpg') }}" class="width10"></img>
-                <img src="{{ asset('image/lp_omi_5.jpg') }}" class="width30"></img>
-                <img src="{{ asset('image/lp_omi_6.jpg') }}" class="width50"></img>
-                <img src="{{ asset('image/lp_omi_7.jpg') }}" class="width100"></img>
+                <div class="center">
+                    <img src="{{ asset('image/lp_omi_4.jpg') }}" class="width10"></img>
+                    <img src="{{ asset('image/lp_omi_5.jpg') }}" class="width30"></img>
+                    <img src="{{ asset('image/lp_omi_6.jpg') }}" class="width50"></img>
+                    <img src="{{ asset('image/lp_omi_7.jpg') }}" class="width100"></img>
+                </div>
             </div>
         </div>
         
