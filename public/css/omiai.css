@@ -41,7 +41,7 @@ header h3 {
 }
 
 .title-image-1 {
-  margin-bottom: -1em;
+  margin-bottom: -0.8em;
 }
 
 .title-span {
@@ -56,7 +56,7 @@ header h3 {
 
 .line {
   border-bottom: 2px solid grey;
-  padding-top: 1.5em;
+  padding-top: 1em;
 }
 
 .content {
