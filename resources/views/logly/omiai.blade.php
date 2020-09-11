@@ -22,10 +22,12 @@
                 <p>2020-09-11 18:37</p>
                 <!--画像-->
                 <img src="{{ asset('image/lp_omi_1.jpg') }}"></img>
+                <img src="{{ asset('image/lp_omi_2.jpg') }}"></img>
+                <img src="{{ asset('image/lp_omi_3.jpg') }}"></img>
             </div>
             
             <div class="content">
-                <h5>時は遡り。<span class="content-h5-span">およそ3ヶ月前...</span><br>高校時代の友達、同じく独身ブス面から~</h5>
+                <h5><span class="content-h5-span">およそ3ヶ月前...</span><br><br>高校時代の友達、同じく独身ブス面から~</h5>
                 <div class="line-bc"><!--①LINE会話全体を囲う-->
                 
                     <!--②左コメント始-->
@@ -136,7 +138,7 @@
                         </div>
                         <div class="chatting">
                             <div class="says">
-                                <p>それどういう意味やねんー</p>
+                                <p>うざ</p>
                             </div>
                         </div>
                     </div>
