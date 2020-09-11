@@ -45,6 +45,11 @@ header h3 {
   border-bottom: 2px solid red;
 }
 
+.arrow {
+  text-align: center;
+  font-size: 3em;
+}
+
 .content {
     padding-right: 1em;
     padding-left: 1em;

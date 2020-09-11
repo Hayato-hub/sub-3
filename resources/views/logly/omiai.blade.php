@@ -22,7 +22,11 @@
                 <p>2020-09-11 18:37</p>
                 <!--画像-->
                 <img src="{{ asset('image/lp_omi_1.jpg') }}"></img>
+                <div class="arrow">
+                    <i class="fas fa-angle-double-down"></i>
+                </div>
                 <img src="{{ asset('image/lp_omi_2.jpg') }}"></img>
+                <br>
                 <img src="{{ asset('image/lp_omi_3.jpg') }}"></img>
             </div>
             
