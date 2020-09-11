@@ -182,11 +182,11 @@
                 <div class="box5">
                     <ol>
                         <li>簡単なプロフィールを記入</li>
-                        <li>記入終わったら<span class="box5-span">「ひたすら待つ！」</span></li>
+                        <li>記入終わったら<br><br><span class="box5-span">「ひたすら待つ！」</span><br><br></li>
                         <li>女性からアプローチがきてメッセージ開始！</li>
                     </ol>
                 </div>
-                <h5>要は、記入したプロフィール(仮の俺)が<br><br><span class="content-h5-span">勝手にナンパしてくる</span><br><br>感じ</h5>
+                <h5>要は、記入したプロフィール(仮の俺)が<br><br><span class="content-h5-span">勝手にナンパしてくる</span><br><br>(イメージね)</h5>
                 <img src="{{ asset('image/lp_omi_6.jpg') }}"></img>
             </div>
         </div>

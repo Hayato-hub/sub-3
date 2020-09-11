@@ -74,6 +74,7 @@ header h3 {
 
 .content img {
   width: 100%;
+  margin: 0.5em 0;
 }
 
 /*枠*/
