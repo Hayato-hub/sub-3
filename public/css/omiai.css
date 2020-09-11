@@ -45,14 +45,18 @@ header h3 {
   border-bottom: 2px solid red;
 }
 
+.title-image-2 {
+  margin-top: 0.5em;
+}
+
 .arrow {
   text-align: center;
   font-size: 3em;
 }
 
 .content {
-    padding-right: 1em;
-    padding-left: 1em;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
 }
 
 .content h5 {
