@@ -40,6 +40,11 @@ header h3 {
     margin-top: -0.5em;
 }
 
+.title-span {
+  color: red;
+  border-bottom: 2px solid red;
+}
+
 .content {
     padding-right: 1em;
     padding-left: 1em;
@@ -47,6 +52,10 @@ header h3 {
 
 .content h5 {
     margin-bottom: -0.5em;
+}
+
+.content-h5-span {
+  font-size: 2em;
 }
 
 /*LINE風CSS*/
