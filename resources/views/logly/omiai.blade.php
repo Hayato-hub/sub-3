@@ -170,12 +170,15 @@
                         </div>
                     </div>
                     <div class="mycomment">
-                        <p>使うって言うかちょっと覗いてみるくらいやな<br><br>あざす。</p>
+                        <p>ちょっと覗いてみるくらいやけどな<br><br>あざす。</p>
                     </div>
                 </div>
                 <h5><span class="content-h5-span">百聞は一見に如かず</span><br><br>と言うことで...<br>あいつが出会えたというやつを試してみることに！</h5>
                 <img src="{{ asset('image/lp_omi_4.jpg') }}"></img>
                 <h5>なーるほど...<br><br><span class="content-h5-span">使ってみたら分かってきたぞ</span></h5>
+                <img src="{{ asset('image/lp_omi_5.jpg') }}"></img>
+                <h5>使い方はこんな感じ <i class="far fa-hand-point-down"></i><br><br><br>1. 簡単なプロフィールを記入<br>2. プロフ記入終わったら<span class="content-h5-span">「ひたすら待つ！」</span><br>3. 女性からアプローチ？連絡がきてメッセージ開始</h5>
+                <h5>まぁ陽キャは自分からアプローチするんだろうけど<br><br>俺みたいな<span class="content-h5-span">ブス面は黙って待とう</span>か</h5>
             </div>
         </div>
         
