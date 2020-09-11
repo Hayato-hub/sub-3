@@ -72,6 +72,48 @@ header h3 {
   font-size: 2em;
 }
 
+.width10 {
+  width: 10%;
+}
+
+.width30 {
+  width: 30%;
+}
+
+.width50 {
+  width: 50%;
+}
+
+.width100 {
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*LINE風CSS*/
 /*以下、①背景色など*/
 .line-bc {
@@ -164,19 +206,3 @@ header h3 {
   transform: rotate(-35deg);
 }
 /*ここまでLINE風CSS*/
-
-.content .step1 {
-  width: 10%;
-}
-
-.content .step2 {
-  width: 30%;
-}
-
-.content .step3 {
-  width: 50%;
-}
-
-.content .step4 {
-  width: 100%;
-}
