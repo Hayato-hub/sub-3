@@ -154,12 +154,28 @@
                 </div><!--/①LINE会話終了-->
                 
                 <h5>と、言うことで...<br><br><span class="content-h5-span">早速始めてみることに！(泣)</span></h5>
-                <div class="center">
-                    <img src="{{ asset('image/lp_omi_4.jpg') }}" class="width10"></img>
-                    <img src="{{ asset('image/lp_omi_5.jpg') }}" class="width30"></img>
-                    <img src="{{ asset('image/lp_omi_6.jpg') }}" class="width50"></img>
-                    <img src="{{ asset('image/lp_omi_7.jpg') }}" class="width100"></img>
+                <div class="line-bc">
+                    <div class="mycomment">
+                        <p>前マッチングアプリ使ってた言うてたやん？<br>あれ、どれ使ってたん？</p>
+                    </div>
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>お、やる気やな(笑)<br>これやで<br><br><a href="https://apps.apple.com/jp/app/omiai-facebook%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%81%8B%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA/id582566462?l=en">https://apps.apple.com/jp/app/<br>free/matching/10</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mycomment">
+                        <p>使うって言うかちょっと覗いてみるくらいやな<br><br>あざす。</p>
+                    </div>
                 </div>
+                <h5><span class="content-h5-span">百聞は一見に如かず</span><br><br>と言うことで...<br>あいつが出会えたというやつを試してみることに！</h5>
+                <img src="{{ asset('image/lp_omi_4.jpg') }}"></img>
+                <h5>なーるほど...<br><br><span class="content-h5-span">使ってみたら分かってきたぞ</span></h5>
             </div>
         </div>
         

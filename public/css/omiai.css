@@ -72,27 +72,9 @@ header h3 {
   font-size: 2em;
 }
 
-.center {
-  margin: 0 auto;
-}
-
-.width10 {
-  width: 10%;
-  
-}
-
-.width30 {
-  width: 30%;
-}
-
-.width50 {
-  width: 50%;
-}
-
-.width100 {
+.content img {
   width: 100%;
 }
-
 
 
 
