@@ -40,6 +40,10 @@ header h3 {
     margin-top: -0.5em;
 }
 
+.title-image-1 {
+  margin-bottom: -2em;
+}
+
 .title-span {
   color: red;
   border-bottom: 2px solid red;
@@ -48,6 +52,10 @@ header h3 {
 .arrow {
   text-align: center;
   font-size: 3em;
+}
+
+.line {
+  border-bottom: 2px solid grey;
 }
 
 .content {

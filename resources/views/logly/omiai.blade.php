@@ -21,7 +21,7 @@
                 <!--日付-->
                 <p>2020-09-11 18:37</p>
                 <!--画像-->
-                <img src="{{ asset('image/lp_omi_1.jpg') }}"></img>
+                <img src="{{ asset('image/lp_omi_1.jpg') }}" class="title-image-1"></img>
                 <div class="arrow">
                     <i class="fas fa-angle-double-down"></i>
                 </div>
@@ -29,10 +29,9 @@
                 <br>
                 <br>
                 <img src="{{ asset('image/lp_omi_3.jpg') }}"></img>
-                <div class="arrow">
-                    <i class="fas fa-angle-double-down"></i>
-                </div>
             </div>
+            
+            <div class="line"></div>
             
             <div class="content">
                 <h5><span class="content-h5-span">およそ3ヶ月前...</span><br><br>高校時代の友達、同じく独身ブス面から~</h5>
