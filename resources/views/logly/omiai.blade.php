@@ -188,6 +188,29 @@
                 </div>
                 <h5>要は、記入したプロフィール(仮の俺)が<br><br><span class="content-h5-span">勝手にナンパしてくる</span><br><br>(イメージね)</h5>
                 <img src="{{ asset('image/lp_omi_6.jpg') }}"></img>
+                <h5>その結果、<br>初めてだいたい2時間?くらいで<br><br><span class="content-h5-span">4人とマッチング成功!</span></h5>
+                <h5>え？俺モテるやんwww<br>って思ってたら...</h5>
+                <div class="line-bc">
+                    <div class="mycomment">
+                        <p>2時間で4人とマッチングしてんけど(笑)</p>
+                    </div>
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>おーそっか<br><br>まぁ普通やな。俺も最終30人くらいとマッチングしてたし</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <h5>ま、まじか...<br><br>でも、<br><span class="content-h5-span">出会えそうな予感MAX!</span></h5>
+                <h5>早速、20代の可愛らしい感じの女の子に連絡しようとしたら、、、<br><br><span class="content-h5-span">「課金してください!」</span></h5>
+                <h5>はい、そうです。<br>女性と連絡する為には課金しないといけないのです...(悲)</h5>
+                <h5>とはいえ、課金と言っても<br><span class="content-h5-span">1日辺り100~150円くらい</span><br>なので、底辺社畜の俺でも全然許容だった</h5>
+                <h5>この時は、<br><span class="content-h5-span">「まっお金払う分お酒控えてダイエットでもするかー」</span><br>って思ってたかな。<br>実際3ヶ月で7kgは落ちたしね！いいきっかけ(笑)</h5>
             </div>
         </div>
         
