@@ -228,9 +228,57 @@
                 </div>
                 <h5><span class="content-h5-span">単純にすごくないですか？</span><br><br>マッチング数に対してデートした数が極端に少ないのは、単にスケジュールの関係なので翌月とかも含めると頑張れば15人くらいはデートできそう...<br><br>まぁここまできたら、<br><br><span class="content-h5-span">こっちが厳選しますけどね！(笑)</span><br><br>非モテが偉そうになりました。笑</h5>
                 <img src="{{ asset('image/lp_omi_10.jpg') }}"></img>
-            
-            
+                <h5><span class="content-h5-span">試してみて分かったのが...</span></h5>
+                <!--枠-->
+                <div class="box5">
+                    <ul>
+                        <li>女性も出会いを探してる(それも多くの人が)</li>
+                        <li>基本放置だから、とにかく<br><br><span class="box5-span">「効率が良い！」</span><br><br></li>
+                        <li>サクラや変な人はいなさそう<br>ちゃんと運営が管理してるっぽい</li>
+                    </ul>
+                </div>
+                <h5><span class="content-h5-span">出会いの自動化！</span><br><br>それも、<br><br><span class="content-h5-span">自分好みの人のみ！</span><br><br>厳選してくれるってのがいいなと思った!</h5>
+                <h5>いやー、すごい時代になりましたね(笑)</h5>
+                <br>
+                <div class="arrow">
+                    <i class="fas fa-angle-double-down"></i>
+                </div>
+                <h5>それから、<br><br><span class="content-h5-span">2ヶ月後...</span></h5>
+                <div class="line-bc">
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>そういや、マッチングアプリどうなったん？</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mycomment">
+                        <p>やめたでー</p>
+                    </div>
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>え、あかんかったん？</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mycomment">
+                        <p>いや！<br>おかげさまで...</p>
+                    </div>
+                </div>
+                <img src="{{ asset('image/lp_omi_2.jpg') }}"></img>
+                
+                
             </div>
+            
         </div>
         
         <footer>
