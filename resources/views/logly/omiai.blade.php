@@ -275,8 +275,30 @@
                     </div>
                 </div>
                 <img src="{{ asset('image/lp_omi_2.jpg') }}"></img>
-                
-                
+                <div class="line-bc">
+                    <div class="balloon6">
+                        <div class="faceicon">
+                            <!--アイコン画像-->
+                            <img src="{{ asset('image/line_friend.png') }}"></img>
+                        </div>
+                        <div class="chatting">
+                            <div class="says">
+                                <p>いや、報告しろよ(笑)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="line"></div>
+                <h6>恋愛、結婚に戸惑いを感じているなら</h6>
+                <img src="{{ asset('image/lp_omi_11.jpg') }}"></img>
+                <h5>正直、マッチングアプリってもっと怪しいものだと思っていたのですが、使ってみた限りは、わりとちゃんとした使えるサービスだなって思いました。</h5>
+                <h5>例えるなら、恋愛専用の自分を作るような感じで、奥手な人でも積極的にコミュニケーション取れる方法でもありますしね。</h5>
+                <h5>なので、『もう自分は恋愛・結婚ダメだ...』と思っている方にこそ是非使ってみて欲しいです！</h5>
+                <br>
+                <h5>時期によってはお得なキャンペーンも開始してたりするので、是非チェックしてみてください！</h5>
+                <div class="button">
+                    <a href="#" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
+                </div>
             </div>
             
         </div>
