@@ -80,6 +80,7 @@ footer {
 
 .content-h5-span-2 {
   color: red;
+  font-size: 1.3em;
 }
 
 .content img {
@@ -115,6 +116,11 @@ footer {
   font-size: 2em;
   color: red;
   border-bottom: 2px solid red;
+}
+
+.img-margin {
+  margin-top: -1.5em;
+  margin-bottom: -1em;
 }
 
 /*LINE風CSS*/
