@@ -90,7 +90,19 @@ header h3 {
     padding: 0;
 }
 
+.box5 ul li {
+    font-weight: bold;
+    margin: 0; 
+    padding: 0;
+}
+
 .box5-span {
+  color: red;
+  border-bottom: 2px solid red;
+}
+
+.box5-span-2 {
+  font-size: 2em;
   color: red;
   border-bottom: 2px solid red;
 }

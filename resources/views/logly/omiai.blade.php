@@ -214,6 +214,22 @@
                 <img src="{{ asset('image/lp_omi_8.jpg') }}"></img>
                 <h5>この時は、<br><span class="content-h5-span">「まっお金払う分、お酒控えてダイエットでもするかー」</span><br>って思ってたかな。<br>実際3ヶ月で7kgは落ちたしね！いいきっかけ(笑)</h5>
                 <img src="{{ asset('image/lp_omi_7.jpg') }}"></img>
+                <div class="arrow">
+                    <i class="fas fa-angle-double-down"></i>
+                </div>
+                <h5><span class="content-h5-span">1ヶ月後...</span><br><br>どんな感じが言うと...<br><br>なんと、<span class="content-h5-span">大成果！！！</span></h5>
+                <!--枠-->
+                <div class="box5">
+                    <ul>
+                        <li>マッチング <span class="box5-span-2">57人</span></li>
+                        <li>LINE交換 33人</li>
+                        <li>デート 4人</li>
+                    </ul>
+                </div>
+                <h5><span class="content-h5-span">単純にすごくないですか？</span><br><br>マッチング数に対してデートした数が極端に少ないのは、単にスケジュールの関係なので翌月とかも含めると頑張れば15人くらいはデートできそう...<br><br>まぁここまできたら、<br><br><span class="content-h5-span">こっちが厳選しますけどね！(笑)</span><br><br>非モテが偉そうになりました。笑</h5>
+                <img src="{{ asset('image/lp_omi_10.jpg') }}"></img>
+            
+            
             </div>
         </div>
         
