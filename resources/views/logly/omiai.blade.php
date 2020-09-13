@@ -165,7 +165,7 @@
                         </div>
                         <div class="chatting">
                             <div class="says">
-                                <p>お、やる気やな(笑)<br>これやで<br><br><a href="https://apps.apple.com/jp/app/omiai-facebook%E3%82%92%E6%B4%BB%E7%94%A8%E3%81%97%E3%81%9F%E6%81%8B%E6%B4%BB%E3%82%A2%E3%83%97%E3%83%AA/id582566462?l=en">https://apps.apple.com/jp/app/<br>free/matching/10</a></p>
+                                <p>お、やる気やな(笑)<br>これやで<br><br><a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow">https://apps.apple.com/jp/app/<br>free/matching/10</a></p>
                             </div>
                         </div>
                     </div>
@@ -297,7 +297,7 @@
                 <br>
                 <h5>時期によっては<span class="content-h5-span-2">お得なキャンペーンも開始</span>してたりするので、是非チェックしてみてください！</h5>
                 <div class="button">
-                    <a href="#" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
+                    <a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
                 </div>
             </div>
         </div>
