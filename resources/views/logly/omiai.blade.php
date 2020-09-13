@@ -7,6 +7,21 @@
         <title>37歳おっさんが真剣にマッチングアプリを使ってみた結果...</title>
         <link href="{{ secure_asset('css/omiai.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+        <!--ログリー-->
+        <script language="javascript">
+            (function () {
+                var _lgy     = document.createElement('script');
+                var _lgy_adv = 7532;
+                window._lgy_advs = window._lgy_advs || {};
+                window._lgy_advs[_lgy_adv] = false;
+                window._lgy_options = window._lgy_options || {};
+                window._lgy_options[_lgy_adv] = {};
+                _lgy.async = true;
+                _lgy.src = 'https://dsp.logly.co.jp/seg.js';
+                var _lgy0 = document.getElementsByTagName('script')[0];
+                _lgy0.parentNode.insertBefore(_lgy, _lgy0);
+            })();
+        </script>
     </head>
     <body>
         <header>
@@ -165,7 +180,7 @@
                         </div>
                         <div class="chatting">
                             <div class="says">
-                                <p>お、やる気やな(笑)<br>これやで<br><br><a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow">https://apps.apple.com/jp/app/<br>free/matching/10</a></p>
+                                <p>お、やる気やな(笑)<br>これやで<br><br><a href="/dl">https://apps.apple.com/jp/app/<br>free/matching/10</a></p>
                             </div>
                         </div>
                     </div>
@@ -297,7 +312,7 @@
                 <br>
                 <h5>時期によっては<span class="content-h5-span-2">お得なキャンペーンも開始</span>してたりするので、是非チェックしてみてください！</h5>
                 <div class="button">
-                    <a href="https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994" rel="nofollow" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
+                    <a href="/dl" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
                 </div>
             </div>
         </div>

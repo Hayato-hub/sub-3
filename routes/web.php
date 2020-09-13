@@ -14,3 +14,9 @@
 Route::get('matching', function () {
     return view('logly.omiai');
 });
+
+// Omiai
+Route::get('dl', function () {
+    return view('logly.dl');
+    // return redirect('https://t.afi-b.com/visit.php?guid=ON&a=R100461-H3470814&p=37183994');
+});
