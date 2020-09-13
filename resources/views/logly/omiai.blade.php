@@ -297,7 +297,7 @@
                 <br>
                 <h5>時期によっては<span class="content-h5-span-2">お得なキャンペーンも開始</span>してたりするので、是非チェックしてみてください！</h5>
                 <div class="button">
-                    <a href="#" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
+                    <a href="#" class="btn-square-shadow" target="_blank"><i class="fab fa-apple"></i> 公式AppStoreへ <i class="fas fa-external-link-alt"></i></a>
                 </div>
             </div>
         </div>
