@@ -34,7 +34,7 @@
                 <!--タイトル-->
                 <h3>【画像あり】「流石にお腹いっぱいやわ。」37歳おっさんが<span class="title-span">『真剣に』</span>マッチングアプリを3ヶ月使った結果...</h3>
                 <!--日付-->
-                <p>2020-09-11 18:37</p>
+                <p>【PR】2020-09-14 16:37</p>
                 <!--画像-->
                 <img src="{{ asset('image/lp_omi_1.jpg') }}" class="title-image-1"></img>
                 <div class="arrow">
@@ -319,6 +319,8 @@
 
         <footer>
             <h3><span class="header-span">LEMON.</span></h3>
+            <br>
+            <a href="/organize" target="_blank">運営元</a>
         </footer>
     </body>
 </html>

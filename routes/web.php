@@ -19,3 +19,8 @@ Route::get('matching', function () {
 Route::get('dl', function () {
     return view('logly.dl');
 });
+
+// 運営者情報
+Route::get('organize', function () {
+    return view('logly.organize');
+});
