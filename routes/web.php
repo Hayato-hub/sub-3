@@ -11,7 +11,7 @@
 |
 */
 // 獲得用
-Route::get('matching', function () {
+Route::get('dating', function () {
     return view('logly.omiai');
 });
 
